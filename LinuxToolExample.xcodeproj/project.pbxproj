@@ -31,6 +31,7 @@
 		6E4B0CA519217FBF0071F2D5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		6E4B0CA819217FBF0071F2D5 /* LinuxToolExample-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "LinuxToolExample-Prefix.pch"; sourceTree = "<group>"; };
 		6E4B0CA919217FBF0071F2D5 /* LinuxToolExample.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = LinuxToolExample.1; sourceTree = "<group>"; };
+		6E4B0CB0192183820071F2D5 /* GNUmakefile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = GNUmakefile; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +85,7 @@
 			isa = PBXGroup;
 			children = (
 				6E4B0CA819217FBF0071F2D5 /* LinuxToolExample-Prefix.pch */,
+				6E4B0CB0192183820071F2D5 /* GNUmakefile */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
