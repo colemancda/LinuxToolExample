@@ -16,12 +16,6 @@ int main(int argc, const char * argv[])
         // insert code here...
         NSLog(@"Hello, World!");
         
-        [[NSOperationQueue mainQueue] addOperationWithBlock:^{
-           
-            NSLog(@"Hello Blocks!");
-            
-        }];
-        
         
         
     }
